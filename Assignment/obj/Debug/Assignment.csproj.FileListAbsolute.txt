@@ -1,0 +1,7 @@
+E:\College\Year 3\QualityTesting\Assignment\Assignment\bin\Debug\Assignment.dll
+E:\College\Year 3\QualityTesting\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\College\Year 3\QualityTesting\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\College\Year 3\QualityTesting\Assignment\Assignment\obj\Debug\Assignment.dll
+E:\College\Year 3\QualityTesting\Assignment\Assignment\obj\Debug\Assignment.pdb
+E:\College\Year 3\QualityTesting\Assignment\Assignment\bin\Debug\nunit.framework.dll
+E:\College\Year 3\QualityTesting\Assignment\Assignment\bin\Debug\nunit.framework.xml
