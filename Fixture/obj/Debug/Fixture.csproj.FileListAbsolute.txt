@@ -1,0 +1,9 @@
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\Fixture.dll
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\Fixture.pdb
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\Assignment.dll
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\fit.dll
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\fitSharp.dll
+E:\College\Year3\QualityTesting\Assignment\Fixture\bin\Debug\Assignment.pdb
+E:\College\Year3\QualityTesting\Assignment\Fixture\obj\Debug\Fixture.csprojResolveAssemblyReference.cache
+E:\College\Year3\QualityTesting\Assignment\Fixture\obj\Debug\Fixture.dll
+E:\College\Year3\QualityTesting\Assignment\Fixture\obj\Debug\Fixture.pdb
