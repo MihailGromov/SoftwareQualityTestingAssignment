@@ -1,0 +1,13 @@
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\nunit.framework.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\WebDriver.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\nunit.framework.xml
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.xml
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\WebDriver.xml
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\bin\Debug\WebDriver.Support.xml
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\College\Year3\QualityTesting\Assignment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
